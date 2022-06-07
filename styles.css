@@ -1,0 +1,23 @@
+h3 { font-family:default;
+  font-size:22px;
+  font-weight:bold;
+   border:1px white;}
+.fact {font-style:italic;
+       font-size:20;}
+span {font-weight:bold;}
+img {margin:10px;
+     image-align:center;}
+div {border: 1px solid       #d3d3d3;
+  width:300px;
+  padding:5px;
+  display:flex;
+  flex-wrap:wrap;
+     }
+.box-2 {border: 1px solid         #d3d3d3;
+        padding:4px;
+        display:flex;
+        flex-wrap:wrap;
+        }
+li {list-style: none;
+   }
+ul {padding:0px;}
